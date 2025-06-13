@@ -11,8 +11,6 @@
   </div>
 </template>
 
-<!-- comentario de prueba -->
-
 <script setup>
 import { computed } from 'vue'
 
